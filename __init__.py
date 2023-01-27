@@ -1,0 +1,1 @@
+from .cheat_ass3_2p_9 import cheat
